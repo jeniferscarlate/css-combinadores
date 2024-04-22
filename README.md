@@ -1,2 +1,2 @@
-# css-combinadores
-Repositório para demonstração de combinadores CSS e algumas pseudo "coisas".
+# CSS Combinadores
+Repositório para demonstração de combinadores CSS e algumas pseudo coisas.
